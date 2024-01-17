@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+     justify-content: right;
+    background-color: aqua;
+}
+.container, .contant{
+    align-items: center;
+    justify-content: space-around;
+}
+.contant{
+    display: flex;
+    justify-content: center;
+}
+.text-aline{
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+}

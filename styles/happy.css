@@ -12,7 +12,65 @@
     justify-content: center;
 }
 .text-aline{
-    /* display: flex; */
+    display: flex;
     justify-content: center;
     align-items: center;
+}
+.text-aline, .student{
+    color: #131318;
+    text-align: center;
+    font-family: Mulish;
+    /* font-size: 2.5rem; */
+    font-style: normal;
+    /* font-weight: 800; */
+    line-height: normal;
+}
+.text-aline,  .text-greey{
+    justify-content: space-between;
+    margin: 40px;
+}
+.reporter{
+    /* display: flex; */
+    justify-content: center;
+}
+.tumi{
+    display: flex;
+    gap: 20px;
+}
+.reper{
+    width: 100%;
+}
+.ttoper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ttoper, .h3{
+    justify-content: center;
+}
+.animetion{
+    display: flex;
+    border-radius: 1rem;
+    border: 2px solid lightseagreen;
+    width: 50%;
+    background-color: rgb(255, 242, 174);
+    margin: 30px;
+}
+.tittle-banner{
+    display: flex;
+    border-radius: 1rem;
+    border: 2px solid red;
+    width: 50%;
+    background-color: rgb(184, 240, 255);
+    justify-content: space-between;
+    margin: 30px;
+
+    gap: 20px;
+}
+.banner-discription{
+     border: 3px solid yellow;
+     width: 50%;
+     background-color: ;
+    border-radius: 1rem;
+     margin: 30px;
 }
